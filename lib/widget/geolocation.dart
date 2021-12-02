@@ -1,5 +1,6 @@
 import 'package:google_maps_flutter/google_maps_flutter.dart';
 
+//geolocation
 class Geolocation {
   Geolocation(this._coordinates, this._bounds);
 
